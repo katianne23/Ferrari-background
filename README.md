@@ -8,4 +8,4 @@
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## Acesse para ver o funcionamento da página
-- [Ferrari](https://katianne23.github.io/Jogo-Genius-DIO/)
+- [Ferrari](https://katianne23.github.io/Ferrari-background/)
